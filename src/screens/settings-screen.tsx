@@ -7,7 +7,7 @@ class SettingsScreen extends Component {
     return (
        <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
             <Text>Settings Screen</Text>
-            <Button title="Button" onPress={() => console.log("Button Clicked")}/>;
+            <Button title="Button" onPress={() => console.log("Button Clicked1")}/>;
       
           </View>
     )
